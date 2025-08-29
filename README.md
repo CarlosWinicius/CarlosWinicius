@@ -5,10 +5,11 @@
 ---
 
 ## 🚀 Sobre mim
-Sou estudante de **Sistemas de Informação** e desenvolvedor **Fullstack**.  
-Tenho experiência com **backend, frontend, bancos de dados** e **automação de processos**.  
-Busco sempre transformar ideias em soluções práticas e inteligentes.  
+Atualmente trabalho como **Desenvolvedor Bitrix24** na Nia - Tecnologia para Negócios Imobiliários, focando em **automação de processos** e **integrações avançadas** com ferramentas como **n8n** e **Make**.  
+Minha atuação inclui o desenvolvimento de soluções eficientes para o setor imobiliário, utilizando **Python, Java, SpringBoot, React e Express.js** para otimizar fluxos de trabalho e criar **chatbots inteligentes**.  
 
+Sou estudante de **Sistemas de Informação** na Universidade de Pernambuco, com conclusão prevista para 2027.  
+Busco sempre transformar ideias em soluções práticas e escaláveis, que agreguem **valor real** para empresas e usuários.
 ---
 
 ## 🛠️ Minhas Stacks
