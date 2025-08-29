@@ -1,35 +1,40 @@
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUserAqui&show_icons=true&title_color=ffbb00&text_color=c9d1d9&icon_color=ffbb00&bg_color=0d1117&hide_border=true&count_private=true"/>
+<h1 align="center">Olá, eu sou o Carlos Winícius 👋</h1>
+<h3 align="center">Estudante de Sistemas de Informação | Fullstack Developer</h3>
 
-# 👋 E aí, eu sou o {Seu Nome}  
+##  Sobre mim
+Sou um estudante apaixonado por tecnologia, com foco no desenvolvimento Fullstack e automação. Gosto de construir soluções que conectam backend e frontend com eficiência e criatividade.
 
-💻 Desenvolvedor focado em **{suas stacks principais (ex: Java | React | Python)}**  
-🚀 Apaixonado por **resolver problemas reais com código**  
-🔥 Sempre buscando **aprender, criar e evoluir**  
+##  Tecnologias e Ferramentas
+Aqui estão algumas das tecnologias que eu uso com frequência:
 
----
+| Backend / Banco de Dados           | Frontend / Automação        |
+|-----------------------------------|------------------------------|
+| Java, Spring Boot                 | React                        |
+| Python, Express.js                | n8n (automação visual)       |
+| Neo4j (banco de grafos)           | Bitrix24 (CRM & automações)  |
 
-### 🚀 Minhas stacks
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="R" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="center" alt="Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
-
----
-
-### 📊 Estatísticas
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUserAqui&layout=compact&langs_count=7&theme=tokyonight"/>
+##  Ferramentas adicionais
+- Git & GitHub  
+- Docker (opcional, se você usar)  
+- Integração contínua / automação via GitHub Actions (se já utiliza)
 
 ---
 
-### 🌎 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](SeuLinkedInAqui)  
-[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=react&logoColor=white)](SeuPortfolioAqui)  
-[![Email](https://img.shields.io/badge/Email-ffbb00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SeuEmailAqui)
+##  Meus projetos destacados
+*Insira aqui links para alguns dos seus projetos mais legais ou relevantes. Exemplos*:
+- **Projeto A** – descrição breve (tecnologias usadas, propósito).
+- **Projeto B** – breve descrição.
 
 ---
 
-> ⚡ *Código é mais do que lógica, é impacto. E eu gosto de causar impacto.*
+##  Estatísticas do GitHub & Visualizações
+Você pode incluir cards dinâmicos para mostrar estatísticas do GitHub como número de repositórios, streaks de contribuições, linguagens mais usadas etc., usando ferramentas como [github-readme-stats] ou [metrics] :contentReference[oaicite:0]{index=0}.
+
+```markdown
+<details>
+  <summary>📊 Estatísticas</summary>
+  
+  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=CarlosWinicius&theme=tokyonight&show_icons=true)
+  
+  ![Melhores linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosWinicius&theme=tokyonight&layout=compact)
+</details>
