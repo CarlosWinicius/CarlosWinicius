@@ -1,40 +1,45 @@
-<h1 align="center">Olá, eu sou o Carlos Winícius 👋</h1>
-<h3 align="center">Estudante de Sistemas de Informação | Fullstack Developer</h3>
-
-##  Sobre mim
-Sou um estudante apaixonado por tecnologia, com foco no desenvolvimento Fullstack e automação. Gosto de construir soluções que conectam backend e frontend com eficiência e criatividade.
-
-##  Tecnologias e Ferramentas
-Aqui estão algumas das tecnologias que eu uso com frequência:
-
-| Backend / Banco de Dados           | Frontend / Automação        |
-|-----------------------------------|------------------------------|
-| Java, Spring Boot                 | React                        |
-| Python, Express.js                | n8n (automação visual)       |
-| Neo4j (banco de grafos)           | Bitrix24 (CRM & automações)  |
-
-##  Ferramentas adicionais
-- Git & GitHub  
-- Docker (opcional, se você usar)  
-- Integração contínua / automação via GitHub Actions (se já utiliza)
+<h1 align="center">👋 Olá, eu sou Carlos Winícius</h1>
+<h3 align="center">💻 Estudante de Sistemas de Informação | Fullstack Developer</h3>
 
 ---
 
-##  Meus projetos destacados
-*Insira aqui links para alguns dos seus projetos mais legais ou relevantes. Exemplos*:
-- **Projeto A** – descrição breve (tecnologias usadas, propósito).
-- **Projeto B** – breve descrição.
+## 🚀 Sobre mim
+Sou apaixonado por tecnologia e desenvolvimento de software.  
+Atualmente estudo **Sistemas de Informação** e trabalho com **desenvolvimento fullstack** e **automação de processos**.  
+Gosto de transformar ideias em soluções práticas e inteligentes.
 
 ---
 
-##  Estatísticas do GitHub & Visualizações
-Você pode incluir cards dinâmicos para mostrar estatísticas do GitHub como número de repositórios, streaks de contribuições, linguagens mais usadas etc., usando ferramentas como [github-readme-stats] ou [metrics] :contentReference[oaicite:0]{index=0}.
+## 🛠️ Minhas Stacks
+- **Backend:** Java | Spring Boot | Python | Express.js  
+- **Banco de Dados:** Neo4j  
+- **Frontend:** React  
+- **Automação & Integração:** n8n | Bitrix24  
+- **Outros:** Git | GitHub | Docker  
 
-```markdown
-<details>
-  <summary>📊 Estatísticas</summary>
-  
-  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=CarlosWinicius&theme=tokyonight&show_icons=true)
-  
-  ![Melhores linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosWinicius&theme=tokyonight&layout=compact)
-</details>
+---
+
+## 📌 Projetos
+- 🔗 [Meus Repositórios](https://github.com/CarlosWinicius?tab=repositories)  
+
+---
+
+## 📊 Estatísticas
+<div align="center">
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=CarlosWinicius&show_icons=true&theme=tokyonight)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosWinicius&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carloswiniciusalves)  
+✉️ **Email:** carloswiniciusalves09@gmail.com  
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CarlosWinicius&color=blue&style=flat-square" alt="Visualizações de perfil" />
+</div>
