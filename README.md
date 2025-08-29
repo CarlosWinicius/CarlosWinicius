@@ -12,11 +12,17 @@ Busco sempre transformar ideias em soluções práticas e inteligentes.
 ---
 
 ## 🛠️ Minhas Stacks
-- **Backend:** Java | Spring Boot | Python | Express.js  
-- **Banco de Dados:** Neo4j  
-- **Frontend:** React  
-- **Automação & Integração:** n8n | Bitrix24  
-- **Outros:** Git | GitHub | Docker  
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/n8n-FF6600?style=for-the-badge&logo=n8n&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Bitrix24-009EE0?style=for-the-badge&logo=bitrix24&logoColor=white" />
+</div>
 
 ---
 
