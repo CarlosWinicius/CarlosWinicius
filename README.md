@@ -6,7 +6,8 @@
 
 ##  Sobre mim
 
-Atualmente trabalho como **Desenvolvedor Bitrix24** na Nia - Tecnologia para Negócios Imobiliários
+Atualmente trabalho como **Desenvolvedor Bitrix24** na Nia - Tecnologia para Negócios Imobiliários.
+
 Sou estudante de **Sistemas de Informação** na Universidade de Pernambuco (2027) me considero bastante **Curioso**, constantemente busco aprender coisas novas e que solucionem problemas reais, agregando **valor** para empresas e usuários.
 
 ---
